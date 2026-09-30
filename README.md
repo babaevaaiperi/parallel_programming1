@@ -99,4 +99,4 @@ NumPy пройдена во всех запусках.)*
 
 ## Автор
 
-*(твоё имя, группа, ссылка на этот репозиторий)*
+Бабаева Айпери 6213 https://github.com/babaevaaiperi/parallel_programming1
